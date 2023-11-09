@@ -1,1 +1,3 @@
 [![Neyaz Nafiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uniman&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://github-readme-stats.vercel.app/api?username=uniman&show_icons=true&theme=graywhite&line_height=38" width="520" align="right">
