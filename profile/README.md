@@ -1,4 +1,4 @@
-[![Neyaz Nafiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uniman&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Neyaz Nafiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uniman&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=uniman&show_icons=true&theme=graywhite&line_height=38" width="420" align="right">
 
@@ -13,6 +13,8 @@ We provide Software Development, Web Application Development, Mobile Application
 uniman™ has been working closely with clients who care about their business. We are suitable to contribute to your business point of view. We build the products that keep you on the edge of technology. We care about your goals, we see your success as our success.
 
 </div>
+
+</br>
 
 <div align="right">
  
