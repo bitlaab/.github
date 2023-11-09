@@ -14,6 +14,10 @@ uniman™ has been working closely with clients who care about their business. W
 
 </div>
 
+<div align="right">
+ 
 <a href="https://uniman.xyz/" target="_blank"><img src="https://img.shields.io/badge/www.uniman.xyz-white?style=for-the-badge&logoColor=000000"></a> 
 <a href="https://www.linkedin.com/company/uniman-sc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/unima.xyz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+
+</div>
