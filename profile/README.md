@@ -20,6 +20,7 @@ bitlaab has been working closely with clients who care about their business. We 
  
 <a href="https://bitlaab.com/" target="_blank"><img src="https://img.shields.io/badge/www.bitlaab.com-white?style=for-the-badge&logoColor=000000"></a> 
 <a href="https://www.linkedin.com/company/bitlaab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/bitlaab">![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)</a>
 <a href="https://www.facebook.com/bitlaab" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 </div>
