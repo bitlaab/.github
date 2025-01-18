@@ -16,7 +16,7 @@ bitlaab has been working closely with clients who care about their business. We 
 
 </br>
 
-Checkout <a href="https://github.com/bitlaab-bolt">Bitlaab Bolt</a>
+### Checkout ![Bitlaab Bolt](https://github.com/bitlaab-bolt)
 
 <div align="right">
  
